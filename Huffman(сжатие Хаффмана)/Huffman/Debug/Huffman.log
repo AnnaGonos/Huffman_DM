@@ -1,0 +1,5 @@
+﻿  Huffman.cpp
+D:\My docs\Задания\Huffman\Huffman\Huffman.cpp(282,15): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\My docs\Задания\Huffman\Huffman\Huffman.cpp(329,16): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\My docs\Задания\Huffman\Huffman\Huffman.cpp(332,23): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+  Huffman.vcxproj -> D:\My docs\Задания\Huffman\Debug\Huffman.exe

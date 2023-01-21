@@ -1,0 +1,7 @@
+﻿  Huffman.cpp
+C:\Users\gonos\Huffman(сжатие Хаффмана)\Huffman\Huffman.cpp(154,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gonos\Huffman(сжатие Хаффмана)\Huffman\Huffman.cpp(237,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gonos\Huffman(сжатие Хаффмана)\Huffman\Huffman.cpp(292,15): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\gonos\Huffman(сжатие Хаффмана)\Huffman\Huffman.cpp(339,16): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\gonos\Huffman(сжатие Хаффмана)\Huffman\Huffman.cpp(342,23): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+  Huffman.vcxproj -> C:\Users\gonos\Huffman(сжатие Хаффмана)\x64\Debug\Huffman.exe
